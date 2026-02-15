@@ -13,4 +13,4 @@ class sumd{
         System.out.println("Sum of digits:"+sum);
 
     }
-}        
+}          
